@@ -1,5 +1,5 @@
 # guess_the_number
-# 🎯 Guess the Number (Ultra-Light Python CLI)
+# 🎯 Guess the Number
 
 A minimal, polished console game in pure Python.  
 The computer picks a secret number **1..100**. You have **7 attempts** to guess it.
